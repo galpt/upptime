@@ -22,16 +22,19 @@ sites:
 - name: 0ms.dev DNS variant Multiqueue
   url: https://0ms.dev/mq/dns.google/dns-query/mq/freedns.controld.com/p0
 
+assignees:
+- galpt
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: upptime.0ms.dev
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://s1.0ms.dev/assets/internal/check.png
   theme: dark
-  name: Upptime
+  name: 0ms.dev | Status
   introTitle: "Uptime status for 0ms.dev services"
-  introMessage: This page aims to provide uptime information for users of our services, especially [DNS](https://0ms.dev/) and [Mirrors](https://0ms.dev/mirrors/) which uses **real-time** data using [Upptime](https://github.com/upptime/upptime).
+  introMessage: This page aims to provide uptime information for users of our services, especially [DNS](https://0ms.dev/) and [Mirrors](https://0ms.dev/mirrors/).
   navbar:
   - title: Status
     href: /
