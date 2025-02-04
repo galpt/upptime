@@ -28,7 +28,7 @@ assignees:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: upptime.0ms.dev
+  cname: status.0ms.dev
   # baseUrl: /your-repo-name
   logoUrl: https://s1.0ms.dev/assets/internal/check.png
   theme: dark
