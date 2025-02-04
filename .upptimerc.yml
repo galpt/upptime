@@ -36,7 +36,7 @@ status-website:
   introTitle: "Uptime status for 0ms.dev services"
   introMessage: This page aims to provide uptime information for users of our services, especially [DNS](https://0ms.dev/) and [Mirrors](https://0ms.dev/mirrors/).
   navbar:
-  - title: Status
+  - title: Uptime
     href: /
 
 # Upptime also supports notifications, assigning issues, and more
