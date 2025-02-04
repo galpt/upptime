@@ -28,6 +28,7 @@ status-website:
   cname: upptime.0ms.dev
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  theme: dark
   name: Upptime
   introTitle: "Uptime status for 0ms.dev services"
   introMessage: This page aims to provide uptime information for users of our services, especially [DNS](https://0ms.dev/) and [Mirrors](https://0ms.dev/mirrors/) which uses **real-time** data using [Upptime](https://github.com/upptime/upptime).
