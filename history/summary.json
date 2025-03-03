@@ -42,7 +42,7 @@
     "slug": "0ms-dev-dns-variant-unfiltered",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 82,
     "timeMonth": 81,
     "timeYear": 81,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-03": 0
+    }
   },
   {
     "name": "0ms.dev DNS variant Security",
@@ -60,7 +62,7 @@
     "slug": "0ms-dev-dns-variant-security",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,7 +71,9 @@
     "timeWeek": 76,
     "timeMonth": 80,
     "timeYear": 80,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-03": 0
+    }
   },
   {
     "name": "0ms.dev DNS variant Adblock",
@@ -78,7 +82,7 @@
     "slug": "0ms-dev-dns-variant-adblock",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,7 +91,9 @@
     "timeWeek": 78,
     "timeMonth": 90,
     "timeYear": 90,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-03": 0
+    }
   },
   {
     "name": "0ms.dev DNS variant CN Optimized",
@@ -96,7 +102,7 @@
     "slug": "0ms-dev-dns-variant-cn-optimized",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -105,7 +111,9 @@
     "timeWeek": 80,
     "timeMonth": 73,
     "timeYear": 73,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-03": 0
+    }
   },
   {
     "name": "0ms.dev DNS variant DNS64 Unfiltered",
@@ -114,7 +122,7 @@
     "slug": "0ms-dev-dns-variant-dns-64-unfiltered",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -123,7 +131,9 @@
     "timeWeek": 72,
     "timeMonth": 76,
     "timeYear": 76,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-03": 0
+    }
   },
   {
     "name": "0ms.dev DNS variant Accelerator",
@@ -132,7 +142,7 @@
     "slug": "0ms-dev-dns-variant-accelerator",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -141,7 +151,9 @@
     "timeWeek": 64,
     "timeMonth": 68,
     "timeYear": 68,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-03": 0
+    }
   },
   {
     "name": "0ms.dev DNS variant Multiqueue",
@@ -150,7 +162,7 @@
     "slug": "0ms-dev-dns-variant-multiqueue",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -159,6 +171,8 @@
     "timeWeek": 91,
     "timeMonth": 88,
     "timeYear": 88,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-03": 0
+    }
   }
 ]
