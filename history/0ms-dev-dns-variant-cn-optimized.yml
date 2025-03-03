@@ -1,7 +1,7 @@
 url: https://0ms.dev/dns-cn
-status: up
-code: 200
+status: down
+code: 500
 responseTime: 57
-lastUpdated: 2025-03-02T23:05:09.524Z
+lastUpdated: 2025-03-03T08:57:14.291Z
 startTime: 2025-02-04T18:16:30.852Z
 generator: Upptime <https://github.com/upptime/upptime>
