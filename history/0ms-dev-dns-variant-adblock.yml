@@ -1,7 +1,7 @@
 url: https://0ms.dev/dns-adblock
-status: up
-code: 200
-responseTime: 88
-lastUpdated: 2025-03-02T23:05:09.279Z
+status: down
+code: 500
+responseTime: 58
+lastUpdated: 2025-03-03T08:57:11.845Z
 startTime: 2025-02-04T18:16:30.507Z
 generator: Upptime <https://github.com/upptime/upptime>
