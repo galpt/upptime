@@ -40,19 +40,19 @@
     "url": "https://0ms.dev/dns-query",
     "icon": "https://icons.duckduckgo.com/ip3/0ms.dev.ico",
     "slug": "0ms-dev-dns-variant-unfiltered",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 81,
-    "timeDay": 66,
-    "timeWeek": 82,
-    "timeMonth": 81,
-    "timeYear": 81,
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 80,
+    "timeDay": 59,
+    "timeWeek": 78,
+    "timeMonth": 80,
+    "timeYear": 80,
     "dailyMinutesDown": {
-      "2025-03-03": 0
+      "2025-03-03": 9
     }
   },
   {
@@ -60,19 +60,19 @@
     "url": "https://0ms.dev/dns-security",
     "icon": "https://icons.duckduckgo.com/ip3/0ms.dev.ico",
     "slug": "0ms-dev-dns-variant-security",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 80,
-    "timeDay": 85,
-    "timeWeek": 76,
-    "timeMonth": 80,
-    "timeYear": 80,
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 79,
+    "timeDay": 65,
+    "timeWeek": 73,
+    "timeMonth": 79,
+    "timeYear": 79,
     "dailyMinutesDown": {
-      "2025-03-03": 0
+      "2025-03-03": 9
     }
   },
   {
@@ -80,19 +80,19 @@
     "url": "https://0ms.dev/dns-adblock",
     "icon": "https://icons.duckduckgo.com/ip3/0ms.dev.ico",
     "slug": "0ms-dev-dns-variant-adblock",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 90,
-    "timeDay": 88,
-    "timeWeek": 78,
-    "timeMonth": 90,
-    "timeYear": 90,
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 89,
+    "timeDay": 73,
+    "timeWeek": 75,
+    "timeMonth": 89,
+    "timeYear": 89,
     "dailyMinutesDown": {
-      "2025-03-03": 0
+      "2025-03-03": 9
     }
   },
   {
@@ -100,19 +100,19 @@
     "url": "https://0ms.dev/dns-cn",
     "icon": "https://icons.duckduckgo.com/ip3/0ms.dev.ico",
     "slug": "0ms-dev-dns-variant-cn-optimized",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 73,
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 72,
     "timeDay": 57,
-    "timeWeek": 80,
-    "timeMonth": 73,
-    "timeYear": 73,
+    "timeWeek": 77,
+    "timeMonth": 72,
+    "timeYear": 72,
     "dailyMinutesDown": {
-      "2025-03-03": 0
+      "2025-03-03": 9
     }
   },
   {
@@ -120,19 +120,19 @@
     "url": "https://0ms.dev/dns64",
     "icon": "https://icons.duckduckgo.com/ip3/0ms.dev.ico",
     "slug": "0ms-dev-dns-variant-dns-64-unfiltered",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 76,
-    "timeDay": 54,
-    "timeWeek": 72,
+    "timeDay": 58,
+    "timeWeek": 71,
     "timeMonth": 76,
     "timeYear": 76,
     "dailyMinutesDown": {
-      "2025-03-03": 0
+      "2025-03-03": 9
     }
   },
   {
@@ -140,19 +140,19 @@
     "url": "https://0ms.dev/dns/dns.google/dns-query",
     "icon": "https://icons.duckduckgo.com/ip3/0ms.dev.ico",
     "slug": "0ms-dev-dns-variant-accelerator",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 68,
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 67,
     "timeDay": 54,
-    "timeWeek": 64,
-    "timeMonth": 68,
-    "timeYear": 68,
+    "timeWeek": 63,
+    "timeMonth": 67,
+    "timeYear": 67,
     "dailyMinutesDown": {
-      "2025-03-03": 0
+      "2025-03-03": 8
     }
   },
   {
@@ -161,18 +161,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/0ms.dev.ico",
     "slug": "0ms-dev-dns-variant-multiqueue",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 88,
-    "timeDay": 82,
-    "timeWeek": 91,
-    "timeMonth": 88,
-    "timeYear": 88,
+    "uptime": "99.98%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 86,
+    "timeDay": 55,
+    "timeWeek": 80,
+    "timeMonth": 86,
+    "timeYear": 86,
     "dailyMinutesDown": {
-      "2025-03-03": 0
+      "2025-03-03": 8
     }
   }
 ]
