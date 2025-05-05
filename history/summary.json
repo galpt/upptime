@@ -22,19 +22,19 @@
     "url": "https://vv.services/dns/",
     "icon": "https://icons.duckduckgo.com/ip3/vv.services.ico",
     "slug": "vv-dns",
-    "status": "down",
-    "uptime": "99.16%",
-    "uptimeDay": "97.84%",
-    "uptimeWeek": "99.16%",
-    "uptimeMonth": "99.16%",
-    "uptimeYear": "99.16%",
-    "time": 59,
-    "timeDay": 61,
-    "timeWeek": 59,
-    "timeMonth": 59,
-    "timeYear": 59,
+    "status": "up",
+    "uptime": "98.81%",
+    "uptimeDay": "96.92%",
+    "uptimeWeek": "98.81%",
+    "uptimeMonth": "98.81%",
+    "uptimeYear": "98.81%",
+    "time": 65,
+    "timeDay": 69,
+    "timeWeek": 65,
+    "timeMonth": 65,
+    "timeYear": 65,
     "dailyMinutesDown": {
-      "2025-05-05": 31
+      "2025-05-05": 44
     }
   },
   {
