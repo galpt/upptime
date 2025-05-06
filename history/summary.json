@@ -24,7 +24,7 @@
     "slug": "vv-dns",
     "status": "up",
     "uptime": "99.39%",
-    "uptimeDay": "98.83%",
+    "uptimeDay": "99.63%",
     "uptimeWeek": "99.39%",
     "uptimeMonth": "99.39%",
     "uptimeYear": "99.39%",
@@ -43,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/vv.services.ico",
     "slug": "vv-bufferbloat-test",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 89,
-    "timeDay": 94,
-    "timeWeek": 89,
-    "timeMonth": 89,
-    "timeYear": 89,
+    "uptime": "99.77%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.77%",
+    "time": 92,
+    "timeDay": 99,
+    "timeWeek": 92,
+    "timeMonth": 92,
+    "timeYear": 92,
     "dailyMinutesDown": {
-      "2025-05-06": 0
+      "2025-05-06": 12
     }
   }
 ]
