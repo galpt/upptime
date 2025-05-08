@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 292,
-    "timeDay": 156,
-    "timeWeek": 292,
-    "timeMonth": 292,
-    "timeYear": 292,
+    "time": 274,
+    "timeDay": 184,
+    "timeWeek": 274,
+    "timeMonth": 274,
+    "timeYear": 274,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/vv.services.ico",
     "slug": "vv-dns",
     "status": "up",
-    "uptime": "99.06%",
-    "uptimeDay": "97.86%",
-    "uptimeWeek": "99.06%",
-    "uptimeMonth": "99.06%",
-    "uptimeYear": "99.06%",
+    "uptime": "99.21%",
+    "uptimeDay": "98.46%",
+    "uptimeWeek": "99.21%",
+    "uptimeMonth": "99.21%",
+    "uptimeYear": "99.21%",
     "time": 65,
-    "timeDay": 64,
+    "timeDay": 65,
     "timeWeek": 65,
     "timeMonth": 65,
     "timeYear": 65,
     "dailyMinutesDown": {
-      "2025-05-07": 31,
+      "2025-05-07": 22,
       "2025-05-05": 31
     }
   },
@@ -44,18 +44,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/vv.services.ico",
     "slug": "vv-bufferbloat-test",
     "status": "up",
-    "uptime": "99.53%",
-    "uptimeDay": "97.86%",
-    "uptimeWeek": "99.53%",
-    "uptimeMonth": "99.53%",
-    "uptimeYear": "99.53%",
-    "time": 81,
-    "timeDay": 67,
-    "timeWeek": 81,
-    "timeMonth": 81,
-    "timeYear": 81,
+    "uptime": "99.67%",
+    "uptimeDay": "98.46%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.67%",
+    "uptimeYear": "99.67%",
+    "time": 80,
+    "timeDay": 68,
+    "timeWeek": 80,
+    "timeMonth": 80,
+    "timeYear": 80,
     "dailyMinutesDown": {
-      "2025-05-07": 31
+      "2025-05-07": 22
     }
   }
 ]
