@@ -1,7 +1,7 @@
 url: https://vv.services/dns/
-status: down
-code: 404
-responseTime: 76
-lastUpdated: 2025-05-09T09:29:39.860Z
+status: up
+code: 200
+responseTime: 60
+lastUpdated: 2025-05-09T09:37:40.114Z
 startTime: 2025-05-03T07:42:57.569Z
 generator: Upptime <https://github.com/upptime/upptime>
