@@ -3,12 +3,12 @@ owner: galpt # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
 sites:
-- name: vv Landing Page
-  url: https://vv.services
-- name: vv DNS
-  url: https://vv.services/dns/
-- name: vv Bufferbloat Test
-  url: https://vv.services/bufferbloat/
+- name: Landing Page
+  url: https://v.recipes
+- name: DNS
+  url: https://v.recipes/dns/
+- name: Bufferbloat Test
+  url: https://v.recipes/bufferbloat/
 
 assignees:
 - galpt
@@ -16,13 +16,13 @@ assignees:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.vv.services
+  cname: status.v.recipes
   # baseUrl: /your-repo-name
-  logoUrl: https://vv.services/assets/internal/check.png
+  logoUrl: https://v.recipes/assets/internal/vrecipeslogo1.png
   theme: dark
-  name: vv.services | Status
-  introTitle: "Uptime status for vv.services"
-  introMessage: This page aims to provide uptime information for users of our services, especially [DNS](https://vv.services/dns/).
+  name: v.recipes | Status
+  introTitle: "Uptime status for v.recipes"
+  introMessage: This page aims to provide uptime information for users of our services, especially [DNS](https://v.recipes/dns/).
   navbar:
   - title: Uptime
     href: /
