@@ -4,53 +4,59 @@
     "url": "https://v.recipes",
     "icon": "https://icons.duckduckgo.com/ip3/v.recipes.ico",
     "slug": "landing-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 502,
-    "timeDay": 390,
-    "timeWeek": 452,
-    "timeMonth": 478,
-    "timeYear": 502,
-    "dailyMinutesDown": {}
+    "time": 504,
+    "timeDay": 648,
+    "timeWeek": 508,
+    "timeMonth": 491,
+    "timeYear": 504,
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   },
   {
     "name": "DNS",
     "url": "https://v.recipes/dns/",
     "icon": "https://icons.duckduckgo.com/ip3/v.recipes.ico",
     "slug": "dns",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 307,
-    "timeDay": 226,
-    "timeWeek": 491,
-    "timeMonth": 463,
-    "timeYear": 307,
-    "dailyMinutesDown": {}
+    "time": 305,
+    "timeDay": 119,
+    "timeWeek": 432,
+    "timeMonth": 449,
+    "timeYear": 305,
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   },
   {
     "name": "Bufferbloat Test",
     "url": "https://v.recipes/bufferbloat/",
     "icon": "https://icons.duckduckgo.com/ip3/v.recipes.ico",
     "slug": "bufferbloat-test",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 62,
-    "timeDay": 39,
-    "timeWeek": 49,
-    "timeMonth": 48,
+    "timeDay": 27,
+    "timeWeek": 45,
+    "timeMonth": 47,
     "timeYear": 62,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   }
 ]
