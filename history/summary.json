@@ -4,19 +4,19 @@
     "url": "https://v.recipes",
     "icon": "https://icons.duckduckgo.com/ip3/v.recipes.ico",
     "slug": "landing-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 503,
-    "timeDay": 517,
-    "timeWeek": 487,
-    "timeMonth": 486,
-    "timeYear": 503,
+    "time": 502,
+    "timeDay": 486,
+    "timeWeek": 474,
+    "timeMonth": 481,
+    "timeYear": 502,
     "dailyMinutesDown": {
-      "2025-11-18": 6
+      "2025-11-18": 0
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://v.recipes/dns/",
     "icon": "https://icons.duckduckgo.com/ip3/v.recipes.ico",
     "slug": "dns",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 305,
-    "timeDay": 231,
-    "timeWeek": 397,
-    "timeMonth": 436,
-    "timeYear": 305,
+    "time": 304,
+    "timeDay": 194,
+    "timeWeek": 365,
+    "timeMonth": 424,
+    "timeYear": 304,
     "dailyMinutesDown": {
-      "2025-11-18": 6
+      "2025-11-18": 0
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://v.recipes/bufferbloat/",
     "icon": "https://icons.duckduckgo.com/ip3/v.recipes.ico",
     "slug": "bufferbloat-test",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 61,
-    "timeDay": 27,
-    "timeWeek": 40,
-    "timeMonth": 45,
+    "timeDay": 25,
+    "timeWeek": 38,
+    "timeMonth": 44,
     "timeYear": 61,
     "dailyMinutesDown": {
-      "2025-11-18": 6
+      "2025-11-18": 0
     }
   }
 ]
