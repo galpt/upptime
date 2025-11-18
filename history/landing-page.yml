@@ -1,7 +1,7 @@
 url: https://v.recipes
-status: up
-code: 200
-responseTime: 390
-lastUpdated: 2025-11-17T23:06:00.322Z
+status: down
+code: 500
+responseTime: 906
+lastUpdated: 2025-11-18T11:33:57.749Z
 startTime: 2025-05-20T05:44:50.091Z
 generator: Upptime <https://github.com/upptime/upptime>
