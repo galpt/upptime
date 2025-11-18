@@ -4,19 +4,19 @@
     "url": "https://v.recipes",
     "icon": "https://icons.duckduckgo.com/ip3/v.recipes.ico",
     "slug": "landing-page",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 504,
-    "timeDay": 648,
-    "timeWeek": 508,
-    "timeMonth": 491,
-    "timeYear": 504,
+    "time": 503,
+    "timeDay": 573,
+    "timeWeek": 499,
+    "timeMonth": 489,
+    "timeYear": 503,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 7
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://v.recipes/dns/",
     "icon": "https://icons.duckduckgo.com/ip3/v.recipes.ico",
     "slug": "dns",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 305,
-    "timeDay": 119,
-    "timeWeek": 432,
-    "timeMonth": 449,
+    "timeDay": 156,
+    "timeWeek": 409,
+    "timeMonth": 442,
     "timeYear": 305,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 7
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://v.recipes/bufferbloat/",
     "icon": "https://icons.duckduckgo.com/ip3/v.recipes.ico",
     "slug": "bufferbloat-test",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 62,
-    "timeDay": 27,
-    "timeWeek": 45,
-    "timeMonth": 47,
+    "timeDay": 28,
+    "timeWeek": 43,
+    "timeMonth": 46,
     "timeYear": 62,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 7
     }
   }
 ]
