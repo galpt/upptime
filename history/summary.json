@@ -4,19 +4,19 @@
     "url": "https://v.recipes",
     "icon": "https://icons.duckduckgo.com/ip3/v.recipes.ico",
     "slug": "landing-page",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.92%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.99%",
-    "time": 500,
-    "timeDay": 454,
-    "timeWeek": 457,
-    "timeMonth": 475,
-    "timeYear": 500,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "96.34%",
+    "uptimeWeek": "99.48%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.98%",
+    "time": 501,
+    "timeDay": 469,
+    "timeWeek": 466,
+    "timeMonth": 478,
+    "timeYear": 501,
     "dailyMinutesDown": {
-      "2025-11-18": 15
+      "2025-11-18": 52
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://v.recipes/dns/",
     "icon": "https://icons.duckduckgo.com/ip3/v.recipes.ico",
     "slug": "dns",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.92%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.99%",
-    "time": 326,
-    "timeDay": 755,
-    "timeWeek": 661,
-    "timeMonth": 530,
-    "timeYear": 326,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "96.33%",
+    "uptimeWeek": "99.48%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.98%",
+    "time": 328,
+    "timeDay": 743,
+    "timeWeek": 660,
+    "timeMonth": 533,
+    "timeYear": 328,
     "dailyMinutesDown": {
-      "2025-11-18": 16
+      "2025-11-18": 53
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://v.recipes/bufferbloat/",
     "icon": "https://icons.duckduckgo.com/ip3/v.recipes.ico",
     "slug": "bufferbloat-test",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.92%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.99%",
-    "time": 61,
-    "timeDay": 24,
-    "timeWeek": 35,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "96.33%",
+    "uptimeWeek": "99.48%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.98%",
+    "time": 60,
+    "timeDay": 26,
+    "timeWeek": 36,
     "timeMonth": 43,
-    "timeYear": 61,
+    "timeYear": 60,
     "dailyMinutesDown": {
-      "2025-11-18": 16
+      "2025-11-18": 53
     }
   }
 ]
