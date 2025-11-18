@@ -4,19 +4,19 @@
     "url": "https://v.recipes",
     "icon": "https://icons.duckduckgo.com/ip3/v.recipes.ico",
     "slug": "landing-page",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 502,
-    "timeDay": 486,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.93%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 501,
+    "timeDay": 484,
     "timeWeek": 474,
     "timeMonth": 481,
-    "timeYear": 502,
+    "timeYear": 501,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 15
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://v.recipes/dns/",
     "icon": "https://icons.duckduckgo.com/ip3/v.recipes.ico",
     "slug": "dns",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 304,
-    "timeDay": 194,
-    "timeWeek": 365,
-    "timeMonth": 424,
-    "timeYear": 304,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.92%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 328,
+    "timeDay": 862,
+    "timeWeek": 711,
+    "timeMonth": 545,
+    "timeYear": 328,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 16
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/v.recipes.ico",
     "slug": "bufferbloat-test",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.92%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 61,
     "timeDay": 25,
     "timeWeek": 38,
     "timeMonth": 44,
     "timeYear": 61,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 16
     }
   }
 ]
