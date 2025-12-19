@@ -1,7 +1,7 @@
 url: https://v.recipes/dns/
-status: up
-code: 200
-responseTime: 316
-lastUpdated: 2025-12-18T23:06:38.895Z
+status: down
+code: 502
+responseTime: 92
+lastUpdated: 2025-12-19T11:55:32.216Z
 startTime: 2025-05-20T05:44:51.167Z
 generator: Upptime <https://github.com/upptime/upptime>
