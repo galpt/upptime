@@ -24,7 +24,7 @@
     "url": "https://v.recipes/dns/",
     "icon": "https://icons.duckduckgo.com/ip3/v.recipes.ico",
     "slug": "dns",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -36,6 +36,7 @@
     "timeMonth": 449,
     "timeYear": 362,
     "dailyMinutesDown": {
+      "2026-02-02": 0,
       "2025-11-18": 53
     }
   },
