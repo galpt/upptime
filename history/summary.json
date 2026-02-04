@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 484,
-    "timeDay": 280,
+    "time": 483,
+    "timeDay": 324,
     "timeWeek": 407,
-    "timeMonth": 441,
-    "timeYear": 484,
+    "timeMonth": 436,
+    "timeYear": 483,
     "dailyMinutesDown": {
       "2025-11-18": 52
     }
@@ -26,15 +26,15 @@
     "slug": "dns",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "98.93%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 363,
-    "timeDay": 418,
-    "timeWeek": 461,
-    "timeMonth": 446,
-    "timeYear": 363,
+    "time": 362,
+    "timeDay": 201,
+    "timeWeek": 430,
+    "timeMonth": 433,
+    "timeYear": 362,
     "dailyMinutesDown": {
       "2026-02-02": 15,
       "2025-11-18": 53
@@ -52,8 +52,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 55,
-    "timeDay": 33,
-    "timeWeek": 38,
+    "timeDay": 49,
+    "timeWeek": 39,
     "timeMonth": 39,
     "timeYear": 55,
     "dailyMinutesDown": {
