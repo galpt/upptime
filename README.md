@@ -1,6 +1,6 @@
-# [📈 Live Status](https://upptime.0ms.dev): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](https://status.v.recipes): <!--live status--> **🟩 All systems operational**
 
-This repository contains the open-source uptime monitor and status page for [arasseo.](https://upptime.0ms.dev), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page for [v.recipes](https://status.v.recipes), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/galpt/upptime/workflows/Uptime%20CI/badge.svg)](https://github.com/galpt/upptime/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/galpt/upptime/workflows/Response%20Time%20CI/badge.svg)](https://github.com/galpt/upptime/actions?query=workflow%3A%22Response+Time+CI%22)
@@ -22,7 +22,7 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://upptime.0ms.dev)
+[**Visit our status website →**](https://status.v.recipes)
 
 ## 📄 License
 
